@@ -9571,7 +9571,7 @@
         <entry key="Twinkerer" value="" />
         <entry key="Twirlip" value="" />
         <entry key="TwistChat" value="" />
-        <entry key="Twisted" value="" />
+        <entry key="Twisted" value="16.5.0rc1" />
         <entry key="Twisted-Flow" value="" />
         <entry key="Twisted-Goodies" value="" />
         <entry key="Twisted-Web2" value="" />
@@ -66350,7 +66350,7 @@
         <entry key="pyobjc-framework-MapKit" value="3.1.1" />
         <entry key="pyobjc-framework-MediaAccessibility" value="3.1.1" />
         <entry key="pyobjc-framework-MediaLibrary" value="3.1.1" />
-        <entry key="pyobjc-framework-Message" value="" />
+        <entry key="pyobjc-framework-Message" value="3.1.1" />
         <entry key="pyobjc-framework-MultipeerConnectivity" value="3.1.1" />
         <entry key="pyobjc-framework-NetFS" value="3.1.1" />
         <entry key="pyobjc-framework-NetworkExtension" value="" />
@@ -84123,7 +84123,7 @@
         <entry key="turrentine" value="" />
         <entry key="turses" value="" />
         <entry key="turtl" value="" />
-        <entry key="turtle" value="" />
+        <entry key="turtle" value="0.0.2" />
         <entry key="turtle2.py" value="" />
         <entry key="turtlepower" value="" />
         <entry key="tus" value="" />
@@ -85952,7 +85952,7 @@
         <entry key="vbihmm" value="" />
         <entry key="vbmfa" value="" />
         <entry key="vbox" value="" />
-        <entry key="vboxapi" value="" />
+        <entry key="vboxapi" value="1.0" />
         <entry key="vboxen" value="" />
         <entry key="vboxn" value="" />
         <entry key="vboxoverlord" value="" />
@@ -88516,7 +88516,7 @@
         <entry key="xarn_asodb" value="" />
         <entry key="xarray" value="" />
         <entry key="xarticle" value="" />
-        <entry key="xattr" value="" />
+        <entry key="xattr" value="0.8.0" />
         <entry key="xaxtsuxo" value="" />
         <entry key="xb" value="" />
         <entry key="xbcf" value="" />
@@ -90488,7 +90488,7 @@
         <entry key="zope.i18n" value="" />
         <entry key="zope.i18nmessageid" value="" />
         <entry key="zope.index" value="" />
-        <entry key="zope.interface" value="" />
+        <entry key="zope.interface" value="4.3.2" />
         <entry key="zope.intid" value="" />
         <entry key="zope.introspector" value="" />
         <entry key="zope.introspectorui" value="" />
