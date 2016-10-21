@@ -7,6 +7,7 @@
       <mapping pattern="simplekivy2" type="PLAIN_TEXT" />
       <mapping pattern="tweet" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="navigate.kv" type="PLAIN_TEXT" />
       <mapping pattern="face_analytics" type="Python" />
       <mapping pattern="simplekivy2.kv" type="RegExp" />
     </extensionMap>
