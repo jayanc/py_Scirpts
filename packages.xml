@@ -12207,7 +12207,7 @@
         <entry key="appdan2" value="" />
         <entry key="appdeploy" value="" />
         <entry key="appdeps" value="" />
-        <entry key="appdirs" value="" />
+        <entry key="appdirs" value="1.4.0" />
         <entry key="appdo" value="" />
         <entry key="appdotnet" value="" />
         <entry key="appdynamics" value="" />
@@ -69169,7 +69169,7 @@
         <entry key="python-flot-utils" value="" />
         <entry key="python-flowdock" value="" />
         <entry key="python-foneworx" value="" />
-        <entry key="python-for-android" value="" />
+        <entry key="python-for-android" value="0.4" />
         <entry key="python-forecastio" value="" />
         <entry key="python-foreman" value="" />
         <entry key="python-form" value="" />
@@ -76354,7 +76354,7 @@
         <entry key="sgsclient" value="" />
         <entry key="sgslib" value="" />
         <entry key="sgtools" value="" />
-        <entry key="sh" value="" />
+        <entry key="sh" value="1.11" />
         <entry key="sh-utils" value="" />
         <entry key="sh_unifi" value="" />
         <entry key="sha1" value="" />
