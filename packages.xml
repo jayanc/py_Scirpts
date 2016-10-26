@@ -1124,7 +1124,7 @@
         <entry key="CherryOnTop" value="" />
         <entry key="CherryPaste" value="" />
         <entry key="CherryProxy" value="" />
-        <entry key="CherryPy" value="" />
+        <entry key="CherryPy" value="8.1.2" />
         <entry key="CherryPy-SQLAlchemy" value="" />
         <entry key="CherrypyElixir" value="" />
         <entry key="CherrypyMako" value="" />
