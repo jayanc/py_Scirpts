@@ -9,6 +9,7 @@
       <mapping pattern="navigate.kv" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="tweet" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="scala" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Python" />
       <mapping pattern="face_analytics" type="Python" />
