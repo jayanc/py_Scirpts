@@ -13,6 +13,7 @@
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="scala" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="face_analytics" type="Python" />
       <mapping pattern="test" type="Python" />
       <mapping pattern="simplekivy2.kv" type="RegExp" />
