@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="kv" type="Native" />
       <mapping pattern="tweet" type="PLAIN_TEXT" />
+      <mapping pattern="HIVE DDL" type="PLAIN_TEXT" />
       <mapping pattern="article" type="PLAIN_TEXT" />
       <mapping pattern="navigate.kv" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
